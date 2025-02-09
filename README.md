@@ -6,6 +6,6 @@ VRM ファイルを PoseNet で検出した姿勢を反映するサンプルで�
 
 ## デモ
 
-ウェブカメラの付いたPCで[こちら](https://t-takasaka.github.io/vrm-three-posenet/)にアクセスしてください。
+ウェブカメラの付いたPCで[こちら](https://akihide0517.github.io/vrm-three-posenet/)にアクセスしてください。
 
 ※読み込みに少々時間がかかりますのでご注意ください
